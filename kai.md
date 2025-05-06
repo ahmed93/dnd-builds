@@ -1,6 +1,6 @@
 # ✧ Kai of the Hollow Glen ✧
 
-![Character Portrait](https://api.placeholder.com/400/320)
+![Character Portrait](img/kai.png)
 
 > *"The wild does not waste words."*
 
