@@ -1,133 +1,146 @@
-# Kai of the Hollow Glen – Complete Character Profile
+# ✧ Kai of the Hollow Glen ✧
 
-**Race**: Wood Elf  
-**Class**: Druid (Primal Order – Magician)  
-**Age**: 132 (equivalent to a 26-year-old human)  
-**Background**: Order of the Hollow Moon  
-**Alignment**: Neutral Good  
-**Languages**: Common, Elvish, Druidic  
-**Proficiencies**: Brewer’s Supplies, Herbalism Kit, Vehicles (Land)
+![Character Portrait](https://api.placeholder.com/400/320)
 
----
+> *"The wild does not waste words."*
 
-## Appearance & Presence
-
-Kai moves with the grace of a wind-stirred branch. Her presence is calm, but beneath her eyes lingers something older than words. Beasts part for her. Trees lean. She is not just druid—she is _known_ in the wild.
+## Character Essence
+**Race:** Wood Elf  
+**Class:** Druid (Primal Order – Magician)  
+**Age:** 132 (equivalent to a 26-year-old human)  
+**Background:** Order of the Hollow Moon  
+**Alignment:** Neutral Good
 
 ---
 
-## Backstory
+## 🌿 Presence & Appearance
 
-Kai was born beneath the silver-veined canopy of **Hollow Glen**, an ancient and hidden woodland sanctuary that has outlasted empires. The glen was protected not by walls, but by whispers—rootbound wards, ancestral oaths, and beasts that knew no fear of steel. From her first breath, Kai was touched by the balance of wildness and wonder.
+Kai moves with the grace of a wind-stirred branch, her footsteps leaving no trace upon the forest floor. Her eyes—deep as ancient pools—carry wisdom beyond her years. There is a calm to her presence that makes even the wildest beasts part before her path, and trees seem to lean toward her as she passes.
 
-Her early years passed in rhythm with the forest: mornings steeped in ritual, afternoons chasing shadowed trails with a panther companion, and nights wrapped in the voices of elders who spoke in a tongue older than stars. She spoke with animals before she spoke with people. And when she first felt pain, it wasn’t hers—it was the blight in the roots, the stillness in the birdsong.
-
-At the age of 80, while others lingered in elven adolescence, Kai was accepted into the **Order of the Hollow Moon**, a sect that walked both arcane and natural paths. Her kin learned sword or arrow—Kai learned storm and soil. She brewed clarity into tea, calmed beasts with voice alone, and spoke truths with leaves and runes.
-
-She became known as a **keeper of balance and secrets**. She could charm a wyvern or brew a draught that brought memory back from fog. She did not boast—_the wild does not waste words_.
+She is not merely a druid who studies nature; she is *recognized* by the wild itself. The forest whispers her name in rustling leaves, and storms pause at her lifted hand.
 
 ---
 
-## Reason for Traveling
+## 📜 Sacred Journey
 
-Over the decades, Kai noticed something wrong. Beasts grew restless. Storms came from directionless skies. Trees bled amber that poisoned earth. The elders named it a **“shadow without form.”**
+Born beneath the silver-veined canopy of **Hollow Glen**—an ancient woodland sanctuary that has outlasted empires—Kai's destiny was written in root and star. The glen stands protected not by walls but by ancestral whispers: rootbound wards, ancient oaths, and beasts that know no fear of steel.
 
-Kai volunteered to leave—not from rebellion, but **duty**. The Glen had kept her. Now she would protect it in return.
+Her childhood flowed with the rhythm of the forest:
+* Mornings steeped in ritual and meditation
+* Afternoons spent along shadowed trails with her panther companion
+* Evenings wrapped in the stories of elders who spoke in tongues older than stars
 
-She travels now as the Glen’s silent envoy, seeking the source of this corruption: forgotten magic, broken oaths, or something older still. She walks the world with ancient eyes and a belt full of herbs, scrolls, and secrets. She listens more than she speaks—but when she does, nature listens back.
+She communed with animals before people. When she first felt pain, it was not her own—it was the blight creeping through roots, the unnatural stillness in birdsong.
 
----
+At 80 years of age, while her kin lingered in elven adolescence, Kai was accepted into the **Order of the Hollow Moon**, walking both arcane and natural paths. Where others mastered sword or arrow, she learned storm and soil. Her talents blossomed:
+* Brewing clarity into golden tea
+* Calming raging beasts with voice alone
+* Speaking truths with leaves and ancient runes
 
-## Weaknesses
-
--   Naive to human politics and courtly intrigue
--   Speaks plainly—unfiltered and sometimes too direct
--   Tends to isolate when overwhelmed
--   Feels deep guilt for not leaving the Glen sooner
--   She is protective to animals and Nature over humans and other races
-
----
-
-## Companions
-
-### **Vaelor, the Griffon-Bonded**
-
--   **AC**: 12 | **HP**: 59 | **Flying Speed**: 80 ft
--   Kai’s mount and guardian, born the same day as her
--   Proud, regal, known across wild territories
--   Fierce in battle and devoted to her protection
-
-### **Elaran, the Sky-Eye (Eagle Familiar)**
-
--   **AC**: 12 | **HP**: 3 | **Flying Speed**: 60 ft
--   Scout and early-warning sentinel
--   Delivers messages, detects distant threats, and communes with wild kin
--   Watchful, proud, and trusted more than most people
+She became renowned as a **keeper of balance and secrets**—one who could charm a wyvern or brew potions that recovered memories lost to time.
 
 ---
 
-## Ability Scores
+## ⚔️ Combat Prowess
 
-| Ability      | Score | Modifier |
-| ------------ | ----- | -------- |
-| Strength     | 10    | +0       |
-| Dexterity    | 15    | +2       |
-| Constitution | 14    | +2       |
-| Intelligence | 12    | +1       |
-| Wisdom       | 17    | +3       |
-| Charisma     | 10    | +0       |
+### Core Statistics
+| **AC** | **HP** | **Initiative** | **Speed** | **Hit Dice** |
+|:------:|:------:|:--------------:|:---------:|:------------:|
+|   13   |   14   |       +2       |   35 ft   |     1d8      |
 
----
+### Ability Scores
+| **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| 10 (+0) | 15 (+2) | 14 (+2) | 12 (+1) | 17 (+3) | 10 (+0) |
 
-## Skills
-
--   Animal Handling +5
--   Perception +5
--   Survival +5
--   Persuasion +2
--   Arcana +4
--   Nature +4
--   Medicine +3
--   Insight +3
--   Stealth +2
+### Battle Techniques
+* **Sickle:** +2 to hit, 1d4 slashing damage
+* **Staff:** +2 to hit, 1d6 bludgeoning damage
+* **Proficiency Bonus:** +2
+* **Saving Throws:** Intelligence +3, Wisdom +5
 
 ---
 
-## Combat Stats
+## ✨ Mystical Arts
 
--   **AC**: 13
--   **Initiative**: +2
--   **Speed**: 35 ft
--   **HP**: 14
--   **Hit Dice**: 1d8
--   **Proficiency Bonus**: +2
--   **Saving Throws**: Intelligence +3, Wisdom +5
+### Spellcraft (Level 1)
+* **Cantrip:** Spare the Dying
+* **Prepared Spell:** Speak with Animals
+* **Spell Save DC:** 13
+* **Spell Attack Bonus:** +5
 
-### Attacks
+### Skills
+* Animal Handling +5
+* Perception +5
+* Survival +5
+* Arcana +4
+* Nature +4
+* Medicine +3
+* Insight +3
+* Persuasion +2
+* Stealth +2
 
--   **Sickle**: +2 to hit, 1d4 slashing
--   **Staff**: +2 to hit, 1d6 bludgeoning
+### Tools & Languages
+* **Proficiencies:** Brewer's Supplies, Herbalism Kit, Vehicles (Land)
+* **Languages:** Common, Elvish, Druidic
+
+---
+
+## 🦅 Loyal Companions
+
+### Vaelor, the Griffon-Bonded
+* **AC:** 12 | **HP:** 59 | **Flying Speed:** 80 ft
+* Born the same day as Kai, this magnificent creature serves as both mount and guardian
+* Proud and regal, Vaelor's name is known across wild territories
+* Fierce in battle and utterly devoted to Kai's protection
+
+### Elaran, the Sky-Eye (Eagle Familiar)
+* **AC:** 12 | **HP:** 3 | **Flying Speed:** 60 ft
+* Functions as scout and early-warning sentinel
+* Delivers messages, detects distant threats, communes with wild kin
+* Watchful, proud, and trusted more than most people
 
 ---
 
-## Spells (Level 1)
+## 🌙 Innate Abilities
 
--   **Cantrip**: Spare the Dying
--   **Prepared Spell**: Speak with Animals
--   **Spell Save DC**: 13
--   **Spell Attack Bonus**: +5
+* **Mask of the Wild:** Can attempt to hide when lightly obscured by natural phenomena
+* **Fey Ancestry:** Advantage against being charmed, immunity to magical sleep
+* **Trance:** Meditates for 4 hours instead of sleeping
+* **Leave Druidic Message** (Special Action)
+* **Two-Weapon Fighting** (Bonus Action option)
+* **Darkvision:** 60 ft
+
+---
+
+## 🧠 Personal Quest
+
+In recent decades, Kai has sensed a growing wrongness in the world. The signs are subtle but unmistakable:
+* Beasts grow restless without cause
+* Storms gather from directionless skies
+* Trees bleed amber that poisons the earth
+
+The elders name it a **"shadow without form"**—a corruption whose origin remains unknown.
+
+Kai has volunteered to leave her sanctuary—not from rebellion, but from **duty**. The Glen has protected her for over a century; now she will protect it in return.
+
+She journeys as the Glen's silent envoy, seeking the source of this corruption:
+* Forgotten magic awakening in ruins
+* Ancient oaths broken in darkness
+* Or something older still, stirring beneath the world
+
+She walks with ancient eyes and a belt full of herbs, scrolls, and secrets. She listens more than she speaks—but when she does, nature itself seems to listen back.
 
 ---
 
-## Traits & Proficiencies
+## 💔 Mortal Limitations
 
--   **Mask of the Wild**: Can attempt to hide when lightly obscured
--   **Fey Ancestry**: Advantage vs being charmed, immune to magical sleep
--   **Trance**: Meditates 4 hours instead of sleeping
--   **Leave Druidic Message** (Special Action)
--   **Two-Weapon Fighting** (Bonus Action option)
--   **Darkvision**: 60 ft
--   **Tools**: Brewer’s Supplies, Herbalism Kit
--   **Languages**: Common, Elvish, Druidic
+* Naive to human politics and courtly intrigue
+* Speaks with unfiltered directness that can offend
+* Tends to withdraw into isolation when overwhelmed
+* Bears deep guilt for not leaving the Glen sooner
+* Places the wellbeing of animals and nature above humans and other races
 
 ---
+
+> *She is the whisper between branches, the stillness before storms, and the memory of stars in forgotten places.*
